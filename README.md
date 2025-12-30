@@ -102,4 +102,4 @@ coded by @z0d131482700x
 Persephrak Red/blue Team Security Research  
 For educational and authorized testing purposes only
 
-proof: https://shorturl.at/cu5wm
+proof original PersephrakNuke.php : https://shorturl.at/cu5wm
